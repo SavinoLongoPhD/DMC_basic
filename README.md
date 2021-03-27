@@ -3,8 +3,8 @@ A simple Diffusion Monte Carlo program for teaching molecular structure.
 
 It allows to calculated energy and wavefunctions for atoms and molecules with one or two valence electrons.
 Examples are:
-One-nucleus: H, He, Li+
-Two-nuclei: H_2^+, HeH+, H2, LiH
+One-nucleus: H, He, Li+.
+Two-nuclei: H_2^+, HeH+, H2, LiH.
 Three-nuclei: H_3^+, LiD_2^+
 
 Released as a teaching tool dfor the class "Spectroscopy and Computer Modeling of Molecular Systems", M.S. Physics, Bari University, Italy.
