@@ -19,7 +19,7 @@ For the one-electron case, excited states are readily selected using symmetry-ba
 
 This program uses atomic units
 
-This version by Savino Longo, Gaia Micca Longo, University of Bari, 2021
+---------------------------------------------------------------------------------------------------------------------
 
 How to use the program: 
 
