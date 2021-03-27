@@ -7,7 +7,7 @@ One-nucleus: H, He, Li+.
 Two-nuclei: H_2^+, HeH+, H2, LiH.
 Three-nuclei: H_3^+, LiD_2^+
 
-Released as a teaching tool for the class "Spectroscopy and Computer Modeling of Molecular Systems", M.S. Physics, Bari University, Italy.
+This version was developed as a teaching tool for the class "Spectroscopy and Computer Modeling of Molecular Systems", M.S. Physics, Bari University, Italy.
 
 The program: DMC_Basic.f
 Language: fortran77
