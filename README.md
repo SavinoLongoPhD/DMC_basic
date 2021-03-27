@@ -9,7 +9,7 @@ Language: fortran77
 
 Details of the algorithm are found in the reference paper Longo, GM, et al. "The unbiased Diffusion Monte Carlo: a versatile tool for two-electron systems confined in different geometries.", EPJ D 2021. Please make reference to the paper if this code is used as a research tool.
 
-The paper can be downloaded for free here https://link.springer.com/article/10.1140/epjd/s10053-021-00095-7
+The paper is open-access and can be downloaded here https://link.springer.com/article/10.1140/epjd/s10053-021-00095-7
 
 DMC_Basic.f allows to perform many experiments, provided the two-electron system is in its singlet ground state.
 
